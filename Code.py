@@ -1,7 +1,4 @@
 import os
-
-
-
 import threading
 import tkinter.filedialog
 import tkinter.messagebox
