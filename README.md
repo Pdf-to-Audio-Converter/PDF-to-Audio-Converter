@@ -71,7 +71,9 @@ Ensure poppler, tesseract-ocr, and ffmpeg are installed and accessible in your s
 The audios/ folder is excluded via .gitignore as it contains generated audio files.
 Text extraction may fail for encrypted or corrupted PDFs.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Copyright
-© 2025 A Hemanth Kumar,G Sai Karthikeya, Ch Seetharama Kartheek,R Pujith. All rights reserved.
+This project is licensed under a **Custom Non-Commercial License**.  
+You are free to use, copy, and modify the code for personal, educational, or non-commercial purposes only.  
+**Commercial use is strictly prohibited without prior written permission from all team members.**  
+Please see the LICENSE file for full terms.
+
+© 2025 A Hemanth Kumar, G Sai Karthikeya, Ch Seetharama Kartheek, R Pujith. All rights reserved.
